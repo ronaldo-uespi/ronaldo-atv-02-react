@@ -7,10 +7,10 @@ const projects = [
     link: "https://github.com/ronaldo-uespi/ronaldo-atv-01",
   },
   {
-    title: "Landing Page para Startup",
-    description: "Layout responsivo com foco em conversão e apresentação clara do produto.",
-    tags: ["Responsivo", "UX", "UI"],
-    link: "#",
+    title: "Portfólio Migrado para React",
+    description: "Portfólio refatorado em React com componentização e renderização dinâmica dos projetos.",
+    tags: ["React", "Componentização", "Vite"],
+    link: "https://github.com/ronaldo-uespi/ronaldo-atv-02-react",
   },
 ];
 
